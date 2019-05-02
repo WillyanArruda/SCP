@@ -1,0 +1,5 @@
+Aplicação já está com 1 usuário cadastrado
+Login: admin
+Senha: admin
+
+Essas informações são criptografadas e salvas no arquivo bd/login.dat 
